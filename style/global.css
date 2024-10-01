@@ -35,6 +35,22 @@
 
 }
 
+.container {
+  max-width: 1366px;
+  padding-inline: 120px;
+  margin-inline: auto;
+
+}
+
+h1, h2, h3 {
+  font: inherit;
+}
+
+body {
+  background-image: url(/assets/Background_Intro.png);
+}
+
+
 
 
 
