@@ -51,6 +51,10 @@ span {
   background-image: url(/assets/image/Background_Intro.png);
 }
 
+#bg-main {
+  background: var(--gray-200);
+}
+
 
 
 
