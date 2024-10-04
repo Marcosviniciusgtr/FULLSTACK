@@ -47,14 +47,14 @@ span {
 }
 
 
-#bg-header{
+.bg-header{
   background-image: url(/assets/image/Background_Intro.png);
 }
 
-#bg-work {
+.bg-work {
   background: var(--gray-200);
 }
-#bg-service {
+.bg-service {
   background: var(--gray-100);
 }
 
