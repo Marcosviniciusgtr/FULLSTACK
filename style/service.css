@@ -1,0 +1,28 @@
+#service {
+  padding-block: 88px 120px;
+
+  div:nth-child(2){
+    grid-template-columns: repeat(3, 280px);
+    gap: 24px;
+    justify-content: center;
+  }
+  figure {
+    padding: 20px;
+    border-radius: 12px;
+    border: 2px solid var(--gray-200);
+    gap: 20px;
+    figcaption {
+      gap: 8px;
+    h3{
+      font: var(--title-sm);
+      color: var(--gray-600);
+    }
+
+    p {
+      font: var(--text-sm);
+      color: var(--gray-600);
+    }
+  }
+
+  }
+}

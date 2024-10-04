@@ -1,0 +1,31 @@
+#contact{
+  padding-block: 128px 200px;
+
+
+  h2 {
+    span {
+      color: var(--main-color-purple);
+  }
+}
+  #link {
+    gap: 16px;
+    justify-content: center;
+
+    figure {
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px;
+    background: var(--gray-300);
+    align-items: center;
+    justify-content: start;
+    gap: 12px;
+
+    p{
+      font: var(--text-md);
+      color: var(--gray-500);
+      width: 288px;
+    }
+
+    }
+  }
+}
