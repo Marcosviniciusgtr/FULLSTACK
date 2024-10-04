@@ -1,4 +1,4 @@
-##FULL STACK
+## FULL STACK
 
 # Descrição
 Este projeto consiste em um desafio feito pela Rockseat, que consistia em replicar esse projeto.
