@@ -1,6 +1,6 @@
-FULL STACK
+##FULL STACK
 
-## Descrição
+# Descrição
 Este projeto consiste em um desafio feito pela Rockseat, que consistia em replicar esse projeto.
 
 Utilizei como tecnologia para a construção desse Site a linguagens de Programação: HTML e CSS
